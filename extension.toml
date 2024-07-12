@@ -1,0 +1,7 @@
+id = "nobin-theme"
+name = "Nobin Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Nobin Khan <nazrulkhan.dk@gmail.com>"]
+description = "Personal Theme (Twisted version of Dracula)"
+repository = "https://github.com/nobinkhan/zed-themes"
